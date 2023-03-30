@@ -6,7 +6,7 @@ Skills used: JOINS, AGGREGATE FUNCTION, CTE, TEMP TABLES, VIEWS, CHANGING DATA T
 
 -----------------------------------------------------------------
 
-The data set was quite vast and has lot more things to divein for future analysis. 
+The data set was quite vast and has lot more things to dive in for future analysis. 
 
 I am open for all the feebacks and improvement so that I can learn more. Hope this is helpfull to any new bee like me....
 Happy coding :)
